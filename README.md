@@ -1,4 +1,4 @@
-## Hey, I'm Victor!!👋
+## Hey, I'm Vinicius!!👋
 Welcome to my GitHub profile!<br>
 Currently, my main focus is Java, and I am studying Systems Analysis and Development.
 <br>
