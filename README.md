@@ -5,8 +5,9 @@ Olá, eu sou Vinicius Moresqui 👋
 Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 </h3>
 
-<br>
+---
 
+<br>
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-girato-moresqui-0a3529291/" target="_blank">
@@ -19,8 +20,9 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
 <br>
+
+---
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 <p align="center">
@@ -31,6 +33,8 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 
 <br>
 
+---
+
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 
 <div align="center">
@@ -39,12 +43,9 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
    </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ViniciusMoresqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=tokyonight&count_private=true"/>
-  </a>
-</div>
-
 <p align="center">
+  <a href="https://github.com/ViniciusMoresqui">
   <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=tokyonight&count_private=true"/>
+  </a>
 </p>
