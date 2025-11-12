@@ -46,10 +46,3 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" width="300" alt="GIF animado">
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" width="300" alt="GIF animado">
-</p>
