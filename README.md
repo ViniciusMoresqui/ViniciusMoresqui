@@ -1,59 +1,50 @@
 <h1 align="center">
-  Olá, eu sou [SEU NOME AQUI]! 👋
+  Olá seja bem-vindo(a) ao meu perfil, me chamo José Rafael 💚
 </h1>
 <h3 align="center">
-  Um breve subtítulo sobre você (ex: Desenvolvedor Full-Stack | Apaixonado por IA)
+  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas!
 </h3>
 
 <br>
 
-<div align="center">
-  <p>Aqui você pode escrever um parágrafo curto sobre você. Fale sobre suas paixões, no que você está trabalhando ou o que está aprendendo!</p>
-  <ul>
-    <li>🔭 Atualmente trabalhando em <strong>[Nome do Projeto ou Empresa]</strong>.</li>
-    <li>🌱 Atualmente aprendendo <strong>[Tecnologia que você está estudando]</strong>.</li>
-    <li>💬 Pergunte-me sobre qualquer coisa relacionada a <strong>[Seu principal interesse]</strong>!</li>
-  </ul>
-</div>
-
-<br>
-
-<h3 align="center"> Conecte-se comigo:</h3>
+<h3 align="center">Para contato me siga nas redes abaixo!</h3>
 <p align="center">
-  <a href="mailto:seu-email-aqui@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://www.instagram.com/zrpires/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  
-  <a href="https://www.linkedin.com/in/seu-username-linkedin-aqui/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://seu-link-aqui.com" target="_blank">
-    <img src="https://img.shields.io/badge/Meu_Site-informal?style=for-the-badge&logo=rss&logoColor=white" alt="Meu Site/Blog">
-  </a>
-</p>
-
-<br>
-
-<h3 align="center">🛠️ Minhas Ferramentas e Tecnologias</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,docker,figma" />
+  <a href="https://x.com/zrpires" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a> 
+  <a href="https://www.linkedin.com/in/zrpires/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 <br>
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
+<div align="center">
+  <a href="https://github.com/zrpires">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrpires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrpires&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=true"/>
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,c,vscode,intellij,git,github,mysql&perline=5" />
+  </a>
+</p>
+
+<br>
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-  
-  <img 
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Programador codando">
+</p>
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=6&theme=dracula"
     alt="Top Linguagens"
