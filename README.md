@@ -39,10 +39,12 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
   </a>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
-</p>
+<div align="center">
+   <a href="https://github.com/ViniciusMoresqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMoresqui&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" width="300" alt="GIF animado">
+  <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
 </p>
