@@ -1,8 +1,8 @@
 <h1 align="center">
-  Olá, eu sou [SEU NOME AQUI] 👋
+  Olá, eu sou Vinicius Moresqui 👋
 </h1>
 <h3 align="center">
-  [SEU SUBTÍTULO AQUI (ex: Estudante de Análise e Desenvolvimento de Sistemas)]
+  Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 </h3>
 
 <br>
