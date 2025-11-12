@@ -37,7 +37,7 @@
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 <div align="center">
   <a href="https://github.com/ViniciusMoresqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=tokyonight&count_private=true"/>
     
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMoresqui&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
@@ -45,6 +45,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" width="300" alt="GIF animado">
 </p>
 
 <p align="center">
