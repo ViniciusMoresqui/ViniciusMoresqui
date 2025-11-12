@@ -32,9 +32,9 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,intellij&perline=5" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,idea&perline=5" />
+  </a>
 </p>
 
 <br>
