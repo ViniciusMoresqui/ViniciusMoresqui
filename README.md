@@ -12,14 +12,13 @@
   <a href="https://www.linkedin.com/in/vinicius-girato-moresqui-0a3529291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="https://www.instagram.com/vini_moresqui/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:https://www.instagram.com/vini_moresqui/" target="_blank">
+  
+  <a href="mailto:[SEU-EMAIL@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://x.com/[SEU-USER-X]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
 
@@ -45,10 +44,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" width="300" alt="GIF animado">
 </p>
 
 <p align="center">
