@@ -50,8 +50,8 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 </div>
 
 <p align="center">
-  <a href="https://github.com/ViniciusMoresqui">
+  
   <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=tokyonight&count_private=true"/>
+  
   </a>
 </p>
