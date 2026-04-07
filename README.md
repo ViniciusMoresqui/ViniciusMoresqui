@@ -43,14 +43,7 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 
 <h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMoresqui&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
-</div>
-
 <p align="center">
-  
   <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
-  
   </a>
 </p>
