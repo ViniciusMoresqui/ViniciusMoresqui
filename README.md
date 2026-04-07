@@ -26,7 +26,7 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 
 - 🧱 **Fundamentos de ADS:** Sólida compreensão em lógica de programação, estrutura de dados e resolução de problemas.
 - 🔄 **Controle de Versão:** Experiência com **Git** e **GitHub** para gerenciamento de código e colaboração.
-- 🚀 **Aprendizado Contínuo:** Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades (atualmente no 4º Semestre!).
+- 🚀 **Aprendizado Contínuo:** Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades (atualmente no 5º Semestre!).
 
 ---
 
