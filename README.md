@@ -1,8 +1,8 @@
 <h1 align="center">
-Olá, eu sou Vinicius Moresqui 👋
+Olá, eu sou Vinicius Moresqui
 </h1>
 <h3 align="center">
-Graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar 🎓
+Desenvolvedor de Software | Graduado em ADS | Acadêmico de Engenharia de Software
 </h3>
 
 <br>
@@ -22,18 +22,18 @@ Graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar 🎓
 
 ---
 
-<h3 align="center">🧠 Habilidades e Competências</h3>
+<h3 align="center">Resumo Profissional e Acadêmico</h3>
 
-- 🎓 **Formação:** Graduado em ADS pela **UniCesumar**, com sólida base em lógica de programação, estrutura de dados e resolução de problemas.
-- 📐 **Arquitetura e Boas Práticas:** Familiaridade com **Padrões de Projeto (Design Patterns)** para criação de códigos limpos e sustentáveis.
-- 🔄 **Controle de Versão:** Experiência com **Git** e **GitHub** para gerenciamento de código e colaboração.
-- 🚀 **Aprendizado Contínuo:** Sempre em busca de novos conhecimentos e desafios para evoluir na área de desenvolvimento.
+- **Atuação Profissional:** Desenvolvedor de Software (PJ) na Pontara Consultoria, desenvolvendo soluções integradas para o setor de construção civil com foco em sistemas como CV CRM e Sienge.
+- **Formação Acadêmica:** Cursando a segunda graduação em Engenharia de Software (6º semestre) pela UniCesumar, instituição pela qual também sou graduado em Análise e Desenvolvimento de Sistemas.
+- **Arquitetura de Software:** Aplicação de Padrões de Projeto (Design Patterns) visando a construção de código limpo, escalável e de fácil manutenção.
+- **Versionamento e Colaboração:** Experiência prática com Git e GitHub para o controle de versão, colaboração e gerenciamento estruturado de código.
 
 ---
 
-<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+<h3 align="center">Tecnologias e Ferramentas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,ts,angular,dart,flutter,mysql,git,github,vscode,idea&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,dart,flutter,java,c,html,css,js,mysql,git,github,vscode,idea&perline=7" />
   </a>
 </p>
