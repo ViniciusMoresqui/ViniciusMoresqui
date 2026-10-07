@@ -2,7 +2,7 @@
 Olá, eu sou Vinicius Moresqui 👋
 </h1>
 <h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
+Graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar 🎓
 </h3>
 
 <br>
@@ -24,26 +24,16 @@ Estudante de Análise e Desenvolvimento de Sistemas 4º Semestre
 
 <h3 align="center">🧠 Habilidades e Competências</h3>
 
-- 🧱 **Fundamentos de ADS:** Sólida compreensão em lógica de programação, estrutura de dados e resolução de problemas.
+- 🎓 **Formação:** Graduado em ADS pela **UniCesumar**, com sólida base em lógica de programação, estrutura de dados e resolução de problemas.
+- 📐 **Arquitetura e Boas Práticas:** Familiaridade com **Padrões de Projeto (Design Patterns)** para criação de códigos limpos e sustentáveis.
 - 🔄 **Controle de Versão:** Experiência com **Git** e **GitHub** para gerenciamento de código e colaboração.
-- 🚀 **Aprendizado Contínuo:** Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades (atualmente no 5º Semestre!).
+- 🚀 **Aprendizado Contínuo:** Sempre em busca de novos conhecimentos e desafios para evoluir na área de desenvolvimento.
 
 ---
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,idea&perline=5" />
-  </a>
-</p>
-
-<br>
-
----
-
-<h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniciusMoresqui&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=5" alt="Gráfico de Contribuições" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,js,ts,angular,dart,flutter,mysql,git,github,vscode,idea&perline=5" />
   </a>
 </p>
