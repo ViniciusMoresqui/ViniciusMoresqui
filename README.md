@@ -42,8 +42,8 @@ Desenvolvedor de Software | Graduado em ADS | Acadêmico de Engenharia de Softwa
 
 <h3 align="center">Estatísticas do GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusMoresqui&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMoresqui&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
